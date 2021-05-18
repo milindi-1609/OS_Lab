@@ -3,6 +3,6 @@
 '''
 Milindi Shah
 J057
-BTech Data Science
+B.Tech Data Science
 Semester 4
 '''
